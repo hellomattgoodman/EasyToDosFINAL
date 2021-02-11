@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164637706722",
+    "firebase_url": "https://easytodos-53ab4.firebaseio.com",
+    "project_id": "easytodos-53ab4",
+    "storage_bucket": "easytodos-53ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164637706722:android:984f4832216cd5b5f2d1bb",
+        "android_client_info": {
+          "package_name": "com.easytodos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164637706722-evhveuqqe3qpj1j88g73jvsnu5bvggtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.easytodos",
+            "certificate_hash": "205a84e9b273913f3e993be73d34e174d720c119"
+          }
+        },
+        {
+          "client_id": "164637706722-8jrvdskqfftmp3lj0nc113l183qk0250.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0S8gD3dofSYQ45usYGL40n1EAJ_jtqP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164637706722-8jrvdskqfftmp3lj0nc113l183qk0250.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
